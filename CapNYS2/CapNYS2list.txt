@@ -1,0 +1,4 @@
+00000005<nys>2019-12-18 07:57<nys>0<nys><nys>C:\Users\tatsu\OneDrive\ドキュメント\Visual Studio 2017\Projects\CapNYS_20191213_ipcamera\CapNYS2\gazou\0000000520191218075754.wmv
+00000005<nys>2019-12-18 07:58<nys>0<nys><nys>C:\Users\tatsu\OneDrive\ドキュメント\Visual Studio 2017\Projects\CapNYS_20191213_ipcamera\CapNYS2\gazou\0000000520191218075815.wmv
+00000005<nys>2019-12-25 18:54<nys>0<nys><nys>C:\Users\tatsu\OneDrive\ドキュメント\Visual Studio 2017\Projects\CapNYS_20191213_ipcamera\CapNYS2\gazou\0000000520191225185422.wmv
+00000005<nys>2020-06-22 21:41<nys>0<nys><nys>C:\Users\tatsu\source\repos\CapNYS_ipcam\CapNYS2\gazou\0000000520200622214157.wmv
